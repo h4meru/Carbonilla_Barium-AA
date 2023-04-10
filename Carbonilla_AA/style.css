@@ -1,0 +1,17 @@
+h1, h4 {
+    text-align: center;
+    font-style: oblique;
+}
+body {
+    background-image: url(bloostar.jpg);
+    color: #000124;
+}
+.thing {
+    color: #5579C6;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 550px;
+    border-radius: 25px;
+} 
